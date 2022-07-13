@@ -20,7 +20,7 @@
 
   <section style="padding-top:100px;">
     <div class="container">
-    <a href="create.php" class="btn btn-primary">Add New</a>
+    <h2 class="pull-left">Employees Details</h2> <a href="create.php" class="btn btn-success pull-right"><i class="fa fa-plus"></i> Add New Employee</a>
       <div class="row">
         <h1>Read User table</h1>
         <div class="col-md-12">
