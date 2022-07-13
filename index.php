@@ -20,6 +20,7 @@
 
   <section style="padding-top:100px;">
     <div class="container">
+    <a href="create.php" class="btn btn-primary">Add New</a>
       <div class="row">
         <h1>Read User table</h1>
         <div class="col-md-12">
@@ -58,9 +59,6 @@
               ?>
             </tbody>
           </table>
-
-                <a href="create.php" class="btn btn-primary">Add New</a>
-
         </div>
       </div>
     </div>
