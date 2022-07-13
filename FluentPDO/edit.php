@@ -39,7 +39,7 @@
         <div class="container">
             <div class="row">
                 <div class="col-md-8">
-                    <h1>Lab4</h1>
+                    <h1>Update</h1>
                     <form method="post" action="">
                         <div class="form-group">
                             <input type="text" name="username" placeholder="Username" class="form-control" value="<?=$row['username']?>">
